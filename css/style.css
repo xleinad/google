@@ -1,0 +1,53 @@
+.up {
+ font-style: arial;
+ font-size: 14px;
+ height: 100%;
+ display: flex;
+ justify-content: flex-end;
+}
+.but {
+  background-color: #0066ff;
+  border: none;
+  color: white;
+  font-style: arial;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  height: 30px;
+}
+.central{
+  padding-left: 550px;
+  width: 300px;
+  height: 130px;
+  align-items: center;
+}
+.busq{
+  font-family: arial;
+  font-style: bold;
+  font-size: 18px;
+  margin-top: 15px;
+  margin-left: 426px;
+  width: 579px;
+  height: 40px;
+  background-color: white;
+  background-image: url('mic.png');
+  background-position: 545px 2px;
+  background-repeat: no-repeat;
+}
+.but2{
+  display: block;
+  text-align: -webkit-center;
+}
+.pie{
+  padding-bottom: 13px;
+  padding-top: 14px;
+  width: 100%;
+  position: absolute;
+  bottom: 0px;
+  background-color: #F2F2F2;
+  font-size: 13px;
+  color: #585858;
+  font-family: arial;
+  border-top-color: black;
+  border-top: 10px;
+}
